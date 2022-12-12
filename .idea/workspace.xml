@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3775df6-aec1-45d7-9c20-4a5708696dfe" name="Changes" comment="SelectionSort">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/RecursiveSum.kt" afterDir="false" />
+    <list default="true" id="d3775df6-aec1-45d7-9c20-4a5708696dfe" name="Changes" comment="RecursiveSum">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/RecursiveCount.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +17,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -41,14 +41,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.RecursiveSumKt">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Algorithms" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.RecursiveCountKt">
     <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MyClass" />
       <module name="Algorithms" />
@@ -58,6 +51,13 @@
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="Algorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecursiveCountKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecursiveCountKt" />
       <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.RecursiveCountKt" />
         <item itemvalue="Kotlin.RecursiveSumKt" />
         <item itemvalue="Kotlin.SelectionSortKt" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.MyClass" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -110,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670832330112</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="RecursiveSum">
+      <created>1670834589214</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670834589214</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -127,6 +134,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="BinSearch" />
     <MESSAGE value="SelectionSort" />
-    <option name="LAST_COMMIT_MESSAGE" value="SelectionSort" />
+    <MESSAGE value="RecursiveSum" />
+    <option name="LAST_COMMIT_MESSAGE" value="RecursiveSum" />
   </component>
 </project>
